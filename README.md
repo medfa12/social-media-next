@@ -25,7 +25,7 @@ This project is a mini social media application built using Next.js, Prisma ORM,
 2. **User Profiles**: Each user has a dedicated profile page.
 3. **Following System**: Users can follow and unfollow other users.
 4. **User List**: A page displaying all users of the platform.
-5. **Blog Functionality**: Users can create, read, update, and delete blog posts.
+5. **Blog Functionality**: Users can read blog posts.
 
 ## Environment Variables
 
